@@ -1,37 +1,20 @@
-### Hi there 👋
-<img src="https://github.com/reeveng/reeveng/blob/master/svg.svg"/>
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+![banner-github](https://user-images.githubusercontent.com/47054908/163042692-82ba35d9-838e-4825-ad16-184ef18862ca.jpg)
 
 
-<p><em>A bachelor student at <a href="https://hogent.be">University College Ghent</a>, majoring in Computer Science. 😊</br>
-</em></p>
-
-
-```javascript
-const aboutMe = {
-   pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Python, Java, CSharp, Kotlin, Swift],
-   technologies: {
-      frontEnd: {
-         js: ["React", "Angular"],
-         css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
-      },
-      backEnd: {
-         java: ["Spring"],
-         js: ["Node", "Express"],
-         csharp: ["Asp.net Core"],
-         misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
-      },
-      databases: ["MongoDB", "mySQL", "SQLServer"],
-      mobile: ["Android", "IOS"]
-   },
-   currentOccupation: ["last year student, open for job opportunities"],
-   challenge: "I'm working towards being able to run a marathon.",
-};
-```
-</br></br>
-<h2>💻 Some stats 💻</h2>
-
-![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=reeveng&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+## Links <img height="170" src="https://user-images.githubusercontent.com/47054908/163049423-8dfa5c0b-263b-4ac1-8f84-0be01e31aaab.gif"/>
+<a href="https://twitter.com/GABjTDev">
+  <img align="left" alt="GABjTDev | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/gabrielomarr/">
+  <img align="left" alt="Gabriel LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://codepen.io/gabrielomarr">
+  <img align="left" alt="Gabriel CodePen" width="22px" src="https://user-images.githubusercontent.com/47054908/163047235-cd88c22a-1c7f-4bbb-abfe-ba636092ef87.png" />
+</a>
+<a href="https://portfolio-gabrielomarr.vercel.app">
+  <img align="left" alt="Gabriel portfolio" width="22px" src="https://user-images.githubusercontent.com/47054908/163048009-9f597a38-1960-4d38-a9d3-8d53c114ea0d.png" />
+</a>
 
 <!--
 **GabrielOmarR/GabrielOmarR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
