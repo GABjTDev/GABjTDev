@@ -1,5 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-![banner-github](https://user-images.githubusercontent.com/47054908/163042692-82ba35d9-838e-4825-ad16-184ef18862ca.jpg)
+![banner-github](https://user-images.githubusercontent.com/47054908/163057707-f1eb177b-35bf-45d6-93d2-20b233576f61.jpg)
+
 
 
 ## Links <img height="170" src="https://user-images.githubusercontent.com/47054908/163049423-8dfa5c0b-263b-4ac1-8f84-0be01e31aaab.gif"/>
