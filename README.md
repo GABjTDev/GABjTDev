@@ -88,17 +88,17 @@ For my programming projects, I usually only upload to Github once I make signifi
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 # ![law-8bits](https://user-images.githubusercontent.com/47054908/163171862-2941185c-fd0f-47cc-8b4f-083c2cee8ed6.gif)
-<a href="https://twitter.com/GABjTDev">
+<a href="https://twitter.com/GABjTDev" title='Twitter'>
   <img align="left" alt="GABjTDev | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/gabrielomarr/">
+<a href="https://www.linkedin.com/in/gabjtdev" title='LinkedIn'>
   <img align="left" alt="Gabriel LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://codepen.io/gabrielomarr">
+<a href="https://codepen.io/gabjtdev" title='Codepen'>
   <img align="left" alt="Gabriel CodePen" width="22px" src="https://user-images.githubusercontent.com/47054908/163047235-cd88c22a-1c7f-4bbb-abfe-ba636092ef87.png" />
 </a>
-<a href="https://portfolio-gabrielomarr.vercel.app">
-  <img align="left" alt="Gabriel portfolio" width="22px" src="https://user-images.githubusercontent.com/47054908/163048009-9f597a38-1960-4d38-a9d3-8d53c114ea0d.png" />
+<a href="https://gabjtdev.vercel.app/" title='Portafolio'>
+  <img align="left" alt="Gabriel portafolio" width="22px" src="https://user-images.githubusercontent.com/47054908/163048009-9f597a38-1960-4d38-a9d3-8d53c114ea0d.png" />
 </a>
 <!--
 **GabrielOmarR/GabrielOmarR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
