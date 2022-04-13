@@ -1,6 +1,17 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ![gabubanner3](https://user-images.githubusercontent.com/47054908/163169935-c94f4c05-db08-4004-812a-4e3e7662c052.png)
 
+I'm a self-taught development student living in Argentina.
+I'm learning to code. I love making and designing web pages with HTML and CSS. My favorite library is react.
+It's fun to code something that anyone on the web can easily see. I also enjoy programming in JavaScript because it challenges me more. I love it when I can finally solve a difficult problem....
+
+For my programming projects, I usually only upload to Github once I make significant progress. For markdown files, I make commits much more often. Feel free to create a pull request to contribute to any of my repositories.
+
+- 🌱 I’m currently learning English and React advanced.
+- 🔭 I’m currently working on creating templates and learning how to progam.
+- 😀 I like to code, anime, movies, manga and music
+- 💬 Ask me about anime or music.
+
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming languages
@@ -56,9 +67,16 @@
   <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
 </p>
 
-# ![law-8bits](https://user-images.githubusercontent.com/47054908/163171862-2941185c-fd0f-47cc-8b4f-083c2cee8ed6.gif)
+## 📊 Github stats
 
-### Links
+<!-- https://github.com/GABjTDev/github-readme-stats -->
+  <br/>
+    <a href="https://github.com/GABjTDev/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=GABjTDev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/GABjTDev/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GABjTDev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+# ![law-8bits](https://user-images.githubusercontent.com/47054908/163171862-2941185c-fd0f-47cc-8b4f-083c2cee8ed6.gif)
 <a href="https://twitter.com/GABjTDev">
   <img align="left" alt="GABjTDev | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
