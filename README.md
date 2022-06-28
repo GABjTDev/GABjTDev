@@ -1,4 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 ![gabubanner3](https://user-images.githubusercontent.com/47054908/163169935-c94f4c05-db08-4004-812a-4e3e7662c052.png)
 
 I'm a self-taught development student living in Argentina.
